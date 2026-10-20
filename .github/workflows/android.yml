@@ -67,7 +67,7 @@ jobs:
             defaultConfig {
               applicationId 'jp.personal.traininglog'
               minSdk 24
-              targetSdk 28
+              targetSdk 35
               versionCode 1
               versionName '1.0'
             }
