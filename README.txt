@@ -1,0 +1,1 @@
+筋トレLOG APKビルド用Androidプロジェクトです。完成APKではありません。GitHub ActionsのBuild Android APKを実行するとdebug APKが生成されます。Android WebViewの端末内保存を使用します。端末変更・再インストール前にはJSONバックアップを取ってください。注意: WebView内でのBlob URLを用いたバックアップのダウンロードは環境により動作しないため、実機検証とAndroid側の保存処理の追加が必要です。
